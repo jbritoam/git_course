@@ -10,6 +10,7 @@
 <?php
 
 echo '<h1>Hello World</h1>';
+echo "<h3>Este seria el subtitulo</h3>";
 
 ?>
 </body>
